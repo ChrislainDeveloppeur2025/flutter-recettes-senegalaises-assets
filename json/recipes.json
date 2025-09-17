@@ -1,0 +1,106 @@
+[
+   {
+    "id": "1",
+    "name": "Thieboudienne",
+    "summary": "Riz au poisson traditionnel sénégalais.",
+    "description": "Le thieboudienne est un plat à base de riz, poisson et légumes. Préparé avec amour.",
+    "ingredients": ["Riz", "Poisson", "Carotte", "Chou", "Tomate", "Aubergine"],
+    "steps": ["Préparer les ingrédients", "Faire la sauce", "Cuire le riz", "Servir chaud"],
+    "imagePath": "assets/images/thieboudienne.jpg",
+   
+    "category": "Plat principal"
+  },  
+
+{
+    "id": "2",
+    "name": "Yassa Poulet",
+    "summary": "Poulet mariné dans du citron et des oignons.",
+    "description": "Le yassa est un plat typique à base de poulet, mariné au citron, puis mijoté avec beaucoup d’oignons caramélisés.",
+    "ingredients": ["Poulet", "Oignons", "Citron", "Moutarde", "Ail", "Sel", "Poivre", "Huile"],
+    "steps": ["Mariner le poulet", "Faire revenir le poulet", "Cuire les oignons", "Mélanger le tout et mijoter", "Servir avec du riz blanc"],
+    "imagePath": "assets/images/yassa_poulet.jpg",
+
+    "category": "Plat principal"
+  },
+  {
+    "id": "3",
+    "name": "Mafé",
+    "summary": "Ragoût de viande à la sauce d’arachide.",
+    "description": "Le mafé est un plat sénégalais à base de viande (bœuf, poulet...) cuite dans une sauce à base de pâte d’arachide et de légumes.",
+    "ingredients": ["Viande", "Pâte d'arachide", "Carottes", "Pommes de terre", "Tomates", "Oignons", "Ail", "Sel", "Poivre"],
+    "steps": ["Faire revenir la viande", "Ajouter les légumes", "Ajouter la pâte d’arachide", "Cuire à feu doux", "Servir avec du riz"],
+    "imagePath": "assets/images/mafe.jpg",
+
+    "category": "Plat principal"
+  },
+  {
+    "id": "4",
+    "name": "Lakh",
+    "summary": "Bouillie de mil souvent servie au petit déjeuner.",
+    "description": "Le lakh est une bouillie traditionnelle préparée avec du mil, du lait caillé et parfois du sucre ou du beurre.",
+    "ingredients": ["Farine de mil", "Lait caillé", "Sucre", "Sel", "Beurre"],
+    "steps": ["Faire cuire la farine de mil à la vapeur", "Ajouter du lait caillé", "Ajouter du sucre selon le goût", "Servir tiède ou froid"],
+    "imagePath": "assets/images/lakh.jpg",
+    "category": "Petit déjeuner"
+  },
+  {
+  "id": "5",
+  "name": "Soupou Kandia",
+  "summary": "Sauce gluante à base de gombo.",
+  "description": "Le Soupou Kandia est un plat sénégalais fait de gombo, poisson et huile de palme. Très apprécié pour sa texture visqueuse.",
+  "ingredients": ["Gombo", "Poisson fumé", "Huile de palme", "Oignons", "Tomates", "Piments", "Sel", "Bouillon"],
+  "steps": ["Couper le gombo en rondelles", "Faire revenir les oignons et tomates", "Ajouter le poisson et le gombo", "Laisser mijoter avec l’huile de palme", "Servir avec du riz blanc"],
+  "imagePath": "assets/images/soupou_kandia.jpg",
+  "category": "Plat principal"
+},
+{
+  "id": "6",
+  "name": "Domoda",
+  "summary": "Sauce tomate épaisse avec boulettes de viande.",
+  "description": "Le domoda est une sauce épaisse à base de tomate, souvent accompagnée de boulettes de viande ou de poisson.",
+  "ingredients": ["Tomates", "Oignons", "Boulettes de viande", "Farine", "Citron", "Ail", "Sel", "Poivre", "Bouillon"],
+  "steps": ["Préparer les boulettes", "Faire revenir les oignons et tomates", "Ajouter les boulettes", "Épaissir la sauce avec un peu de farine", "Laisser mijoter", "Servir avec du riz blanc"],
+  "imagePath": "assets/images/domoda.jpg",
+  "category": "Plat principal"
+},
+{
+  "id": "7",
+  "name": "Dakhine",
+  "summary": "Sauce à base d’arachide et viande.",
+  "description": "Le Dakhine est un plat riche à base de pâte d’arachide, souvent accompagné de viande de bœuf ou de mouton.",
+  "ingredients": ["Pâte d’arachide", "Viande", "Oignons", "Tomates", "Ail", "Sel", "Poivre", "Bouillon"],
+  "steps": ["Faire revenir la viande", "Ajouter les oignons et tomates", "Incorporer la pâte d’arachide", "Laisser mijoter jusqu’à épaississement", "Servir avec du riz blanc"],
+  "imagePath": "assets/images/dakhine.jpg",
+  "category": "Plat principal"
+},
+{
+  "id": "8",
+  "name": "Thière",
+  "summary": "Couscous de mil sénégalais.",
+  "description": "Le Thière est un plat traditionnel à base de mil cuit à la vapeur, souvent accompagné de lait caillé ou d'une sauce.",
+  "ingredients": ["Couscous de mil", "Lait caillé", "Sucre", "Sel", "Raisins secs (facultatif)"],
+  "steps": ["Cuire le couscous de mil à la vapeur", "Servir avec du lait caillé", "Ajouter du sucre selon le goût", "Décorer avec des raisins secs si souhaité"],
+  "imagePath": "assets/images/thiere.jpg",
+  "category": "Petit déjeuner"
+},
+{
+  "id": "9",
+  "name": "Thiou",
+  "summary": "Ragoût rouge à base de viande ou poisson.",
+  "description": "Le Thiou est un ragoût de sauce tomate, souvent cuisiné avec de la viande ou du poisson et des légumes.",
+  "ingredients": ["Tomates", "Poisson ou viande", "Oignons", "Pommes de terre", "Carottes", "Aubergines", "Sel", "Bouillon"],
+  "steps": ["Faire revenir les oignons et tomates", "Ajouter la viande ou le poisson", "Incorporer les légumes", "Laisser mijoter", "Servir avec du riz blanc ou du couscous"],
+  "imagePath": "assets/images/thiou.jpg",
+  "category": "Plat principal"
+},
+{
+  "id": "10",
+  "name": "Caldou",
+  "summary": "Poisson avec sauce citronnée.",
+  "description": "Le Caldou est un plat à base de poisson frais, accompagné d’une sauce au citron, souvent avec du riz blanc.",
+  "ingredients": ["Poisson", "Citron", "Oignons", "Ail", "Huile", "Sel", "Bouillon"],
+  "steps": ["Assaisonner le poisson avec du citron", "Faire revenir les oignons et ail", "Ajouter le poisson", "Laisser cuire à feu doux", "Servir avec du riz blanc"],
+  "imagePath": "assets/images/caldou.jpg",
+  "category": "Plat principal"
+}
+]
